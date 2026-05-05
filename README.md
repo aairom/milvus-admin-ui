@@ -269,3 +269,6 @@ PRs welcome. Please:
 Issues & feature requests: [https://github.com/ruslanmv/milvus-admin-ui/issues](https://github.com/ruslanmv/milvus-admin-ui/issues)
 If this project helps you, **please ⭐ star the repo**: [https://github.com/ruslanmv/milvus-admin-ui](https://github.com/ruslanmv/milvus-admin-ui)
 
+
+---
+The `mcp-server/` subdirectory ships a Milvus MCP backend wired into [GitPilot's MCP Context Forge stack](https://github.com/ruslanmv/gitpilot/blob/main/INSTALL_MCP.md). Image published via `.github/workflows/docker-publish.yml`.
